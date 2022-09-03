@@ -1,2 +1,5 @@
-hello from siddharth saarathi pradhan
-
+#include<stdio.h>
+int main()
+{
+printf("hello");
+}
